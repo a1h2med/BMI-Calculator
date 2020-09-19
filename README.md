@@ -17,4 +17,4 @@ this app consists of two pages:
     2- multiple pages.
     3- easy to insert inputs.
     4- works on both Android and IOS.
-    5- works on any phone type.
+    5- works on any phone size.
